@@ -8,10 +8,10 @@
  */
 int main(void)
 {
-int i;
-int j;
+int a;
+int b;
+int c;
 int d;
-int e;
 
 for (a = 0; a <= 9; a++)
 {
