@@ -5,8 +5,9 @@
  *
  * Return: Always 0.
  */
+int print_alphabet();
 int main(void)
 {
- int print_alphabet();
+  print_alphabet();
   return (0);
 }
