@@ -5,8 +5,9 @@
  *
  * Return: Always 0.
  */
+int print_alphabet_x10();
 int main(void)
 {
- int print_alphabet_x10();
-  return (0);
+print_alphabet_x10();
+return (0);
 }
