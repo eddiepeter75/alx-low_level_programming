@@ -19,8 +19,11 @@ typedef struct structprint
 } structype;
 
 int _putchar(char ch);
+void print_alphabet(void);
 int _puts(char *string);
 int printc(char *format, va_list);
+int _islower(int c);
+int _isalpha(int c);
 int printstr(char *format, va_list);
 int (*driver(char *format))(char *format, va_list);
 int _printf(char *format, ...);
