@@ -14,7 +14,7 @@ int j = 0;
 while (i < n)
 {
 while (j <= i)
-
+{
 if (j != i)
 _putchar(' ');
 else
