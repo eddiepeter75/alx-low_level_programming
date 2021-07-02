@@ -1,0 +1,1 @@
+__C__ - More pointers, arrays and strings
